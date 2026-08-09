@@ -130,4 +130,8 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AbhishekkASR/LeedCode/tree/master/0234-palindrome-linked-list) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/AbhishekkASR/LeedCode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
