@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/AbhishekkASR/LeedCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Binary Search
@@ -48,6 +49,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AbhishekkASR/LeedCode/tree/master/0258-add-digits) |
+| [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/AbhishekkASR/LeedCode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String
@@ -92,5 +94,22 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbhishekkASR/LeedCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Minimax
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
+## Game Theory
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
+## Zero-Sum Game
+|  |
+| ------- |
+| [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
 <!---LeetCode Topics End-->
