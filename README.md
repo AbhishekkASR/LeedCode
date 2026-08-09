@@ -90,6 +90,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0234-palindrome-linked-list](https://github.com/AbhishekkASR/LeedCode/tree/master/0234-palindrome-linked-list) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbhishekkASR/LeedCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
@@ -112,4 +113,16 @@
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
+## Linked List
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/AbhishekkASR/LeedCode/tree/master/0234-palindrome-linked-list) |
+## Stack
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/AbhishekkASR/LeedCode/tree/master/0234-palindrome-linked-list) |
+## Recursion
+|  |
+| ------- |
+| [0234-palindrome-linked-list](https://github.com/AbhishekkASR/LeedCode/tree/master/0234-palindrome-linked-list) |
 <!---LeetCode Topics End-->
