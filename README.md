@@ -8,6 +8,7 @@
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbhishekkASR/LeedCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0806-number-of-lines-to-write-string](https://github.com/AbhishekkASR/LeedCode/tree/master/0806-number-of-lines-to-write-string) |
 | [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/AbhishekkASR/LeedCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Binary Search
@@ -22,6 +23,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AbhishekkASR/LeedCode/tree/master/0242-valid-anagram) |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/AbhishekkASR/LeedCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Quickselect
 |  |
@@ -150,4 +152,8 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AbhishekkASR/LeedCode/tree/master/1510-stone-game-iv) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 <!---LeetCode Topics End-->
