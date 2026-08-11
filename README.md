@@ -179,4 +179,8 @@
 |  |
 | ------- |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+## Enumeration
+|  |
+| ------- |
+| [1291-sequential-digits](https://github.com/AbhishekkASR/LeedCode/tree/master/1291-sequential-digits) |
 <!---LeetCode Topics End-->
