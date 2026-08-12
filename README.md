@@ -9,6 +9,7 @@
 | [0806-number-of-lines-to-write-string](https://github.com/AbhishekkASR/LeedCode/tree/master/0806-number-of-lines-to-write-string) |
 | [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AbhishekkASR/LeedCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbhishekkASR/LeedCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhishekkASR/LeedCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -123,6 +124,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AbhishekkASR/LeedCode/tree/master/1510-stone-game-iv) |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AbhishekkASR/LeedCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbhishekkASR/LeedCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Minimax
 |  |
@@ -197,4 +199,8 @@
 |  |
 | ------- |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbhishekkASR/LeedCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
+## Matrix
+|  |
+| ------- |
+| [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AbhishekkASR/LeedCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 <!---LeetCode Topics End-->
