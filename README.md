@@ -204,6 +204,7 @@
 | [1757-recyclable-and-low-fat-products](https://github.com/AbhishekkASR/LeedCode/tree/master/1757-recyclable-and-low-fat-products) |
 | [1907-count-salary-categories](https://github.com/AbhishekkASR/LeedCode/tree/master/1907-count-salary-categories) |
 | [1934-confirmation-rate](https://github.com/AbhishekkASR/LeedCode/tree/master/1934-confirmation-rate) |
+| [1978-employees-whose-manager-left-the-company](https://github.com/AbhishekkASR/LeedCode/tree/master/1978-employees-whose-manager-left-the-company) |
 | [2356-number-of-unique-subjects-taught-by-each-teacher](https://github.com/AbhishekkASR/LeedCode/tree/master/2356-number-of-unique-subjects-taught-by-each-teacher) |
 ## Nim Game
 |  |
