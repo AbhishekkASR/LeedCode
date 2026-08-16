@@ -11,6 +11,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AbhishekkASR/LeedCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [2029-stone-game-ix](https://github.com/AbhishekkASR/LeedCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbhishekkASR/LeedCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2906-construct-product-matrix](https://github.com/AbhishekkASR/LeedCode/tree/master/2906-construct-product-matrix) |
@@ -67,6 +68,7 @@
 | [0258-add-digits](https://github.com/AbhishekkASR/LeedCode/tree/master/0258-add-digits) |
 | [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AbhishekkASR/LeedCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AbhishekkASR/LeedCode/tree/master/2029-stone-game-ix) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/AbhishekkASR/LeedCode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AbhishekkASR/LeedCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -90,6 +92,7 @@
 ## Greedy
 |  |
 | ------- |
+| [2029-stone-game-ix](https://github.com/AbhishekkASR/LeedCode/tree/master/2029-stone-game-ix) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbhishekkASR/LeedCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AbhishekkASR/LeedCode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -113,6 +116,7 @@
 |  |
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/AbhishekkASR/LeedCode/tree/master/1189-maximum-number-of-balloons) |
+| [2029-stone-game-ix](https://github.com/AbhishekkASR/LeedCode/tree/master/2029-stone-game-ix) |
 ## Simulation
 |  |
 | ------- |
@@ -139,6 +143,7 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AbhishekkASR/LeedCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AbhishekkASR/LeedCode/tree/master/2029-stone-game-ix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -149,11 +154,13 @@
 | ------- |
 | [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AbhishekkASR/LeedCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AbhishekkASR/LeedCode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AbhishekkASR/LeedCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AbhishekkASR/LeedCode/tree/master/2029-stone-game-ix) |
 ## Linked List
 |  |
 | ------- |
@@ -201,6 +208,7 @@
 |  |
 | ------- |
 | [1510-stone-game-iv](https://github.com/AbhishekkASR/LeedCode/tree/master/1510-stone-game-iv) |
+| [2029-stone-game-ix](https://github.com/AbhishekkASR/LeedCode/tree/master/2029-stone-game-ix) |
 ## Sprague–Grundy Theorem
 |  |
 | ------- |
