@@ -17,6 +17,7 @@
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbhishekkASR/LeedCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2906-construct-product-matrix](https://github.com/AbhishekkASR/LeedCode/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AbhishekkASR/LeedCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbhishekkASR/LeedCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhishekkASR/LeedCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhishekkASR/LeedCode/tree/master/3471-find-the-largest-almost-missing-integer) |
@@ -74,6 +75,7 @@
 | [1563-stone-game-v](https://github.com/AbhishekkASR/LeedCode/tree/master/1563-stone-game-v) |
 | [2029-stone-game-ix](https://github.com/AbhishekkASR/LeedCode/tree/master/2029-stone-game-ix) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/AbhishekkASR/LeedCode/tree/master/2806-account-balance-after-rounded-purchase) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AbhishekkASR/LeedCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AbhishekkASR/LeedCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhishekkASR/LeedCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -129,6 +131,7 @@
 | ------- |
 | [0258-add-digits](https://github.com/AbhishekkASR/LeedCode/tree/master/0258-add-digits) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/2553-separate-the-digits-in-an-array) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AbhishekkASR/LeedCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3612-process-string-with-special-operations-i](https://github.com/AbhishekkASR/LeedCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhishekkASR/LeedCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Two Pointers
@@ -244,6 +247,7 @@
 | ------- |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AbhishekkASR/LeedCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [2906-construct-product-matrix](https://github.com/AbhishekkASR/LeedCode/tree/master/2906-construct-product-matrix) |
+| [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AbhishekkASR/LeedCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 ## String Matching
 |  |
 | ------- |
