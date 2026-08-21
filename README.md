@@ -40,6 +40,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AbhishekkASR/LeedCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/AbhishekkASR/LeedCode/tree/master/0389-find-the-difference) |
 | [1331-rank-transform-of-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhishekkASR/LeedCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -87,6 +88,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AbhishekkASR/LeedCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/AbhishekkASR/LeedCode/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbhishekkASR/LeedCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0796-rotate-string](https://github.com/AbhishekkASR/LeedCode/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/AbhishekkASR/LeedCode/tree/master/0806-number-of-lines-to-write-string) |
@@ -120,6 +122,7 @@
 |  |
 | ------- |
 | [0242-valid-anagram](https://github.com/AbhishekkASR/LeedCode/tree/master/0242-valid-anagram) |
+| [0389-find-the-difference](https://github.com/AbhishekkASR/LeedCode/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbhishekkASR/LeedCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1189-maximum-number-of-balloons](https://github.com/AbhishekkASR/LeedCode/tree/master/1189-maximum-number-of-balloons) |
 | [1331-rank-transform-of-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1331-rank-transform-of-an-array) |
@@ -273,6 +276,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0389-find-the-difference](https://github.com/AbhishekkASR/LeedCode/tree/master/0389-find-the-difference) |
 | [1386-cinema-seat-allocation](https://github.com/AbhishekkASR/LeedCode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhishekkASR/LeedCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AbhishekkASR/LeedCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
