@@ -21,6 +21,7 @@
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbhishekkASR/LeedCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhishekkASR/LeedCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AbhishekkASR/LeedCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhishekkASR/LeedCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhishekkASR/LeedCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AbhishekkASR/LeedCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AbhishekkASR/LeedCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
@@ -29,6 +30,7 @@
 ## Binary Search
 |  |
 | ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhishekkASR/LeedCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/AbhishekkASR/LeedCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Divide and Conquer
 |  |
@@ -77,6 +79,7 @@
 | [2029-stone-game-ix](https://github.com/AbhishekkASR/LeedCode/tree/master/2029-stone-game-ix) |
 | [2806-account-balance-after-rounded-purchase](https://github.com/AbhishekkASR/LeedCode/tree/master/2806-account-balance-after-rounded-purchase) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AbhishekkASR/LeedCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhishekkASR/LeedCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AbhishekkASR/LeedCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhishekkASR/LeedCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -108,6 +111,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AbhishekkASR/LeedCode/tree/master/0258-add-digits) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhishekkASR/LeedCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AbhishekkASR/LeedCode/tree/master/3658-gcd-of-odd-and-even-sums) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhishekkASR/LeedCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -268,5 +272,10 @@
 |  |
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/AbhishekkASR/LeedCode/tree/master/1386-cinema-seat-allocation) |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhishekkASR/LeedCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AbhishekkASR/LeedCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
+## Combinatorics
+|  |
+| ------- |
+| [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhishekkASR/LeedCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 <!---LeetCode Topics End-->
