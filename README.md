@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/AbhishekkASR/LeedCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/AbhishekkASR/LeedCode/tree/master/0283-move-zeroes) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbhishekkASR/LeedCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0806-number-of-lines-to-write-string](https://github.com/AbhishekkASR/LeedCode/tree/master/0806-number-of-lines-to-write-string) |
@@ -76,6 +77,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/AbhishekkASR/LeedCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/AbhishekkASR/LeedCode/tree/master/0258-add-digits) |
 | [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AbhishekkASR/LeedCode/tree/master/1510-stone-game-iv) |
