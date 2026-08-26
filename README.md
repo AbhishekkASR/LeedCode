@@ -15,6 +15,7 @@
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1563-stone-game-v](https://github.com/AbhishekkASR/LeedCode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AbhishekkASR/LeedCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/AbhishekkASR/LeedCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AbhishekkASR/LeedCode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbhishekkASR/LeedCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -82,6 +83,7 @@
 | [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AbhishekkASR/LeedCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AbhishekkASR/LeedCode/tree/master/1563-stone-game-v) |
+| [1822-sign-of-the-product-of-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/AbhishekkASR/LeedCode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/AbhishekkASR/LeedCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AbhishekkASR/LeedCode/tree/master/2029-stone-game-ix) |
