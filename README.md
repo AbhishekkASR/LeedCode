@@ -23,6 +23,7 @@
 | [2553-separate-the-digits-in-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2906-construct-product-matrix](https://github.com/AbhishekkASR/LeedCode/tree/master/2906-construct-product-matrix) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AbhishekkASR/LeedCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbhishekkASR/LeedCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbhishekkASR/LeedCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhishekkASR/LeedCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AbhishekkASR/LeedCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -50,6 +51,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AbhishekkASR/LeedCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbhishekkASR/LeedCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhishekkASR/LeedCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/AbhishekkASR/LeedCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhishekkASR/LeedCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
@@ -335,4 +337,8 @@
 |  |
 | ------- |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbhishekkASR/LeedCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+## Union-Find
+|  |
+| ------- |
+| [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbhishekkASR/LeedCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 <!---LeetCode Topics End-->
