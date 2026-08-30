@@ -19,6 +19,7 @@
 | [1822-sign-of-the-product-of-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1872-stone-game-viii](https://github.com/AbhishekkASR/LeedCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AbhishekkASR/LeedCode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AbhishekkASR/LeedCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbhishekkASR/LeedCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2906-construct-product-matrix](https://github.com/AbhishekkASR/LeedCode/tree/master/2906-construct-product-matrix) |
@@ -128,6 +129,7 @@
 | [1386-cinema-seat-allocation](https://github.com/AbhishekkASR/LeedCode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/AbhishekkASR/LeedCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AbhishekkASR/LeedCode/tree/master/2029-stone-game-ix) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/AbhishekkASR/LeedCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbhishekkASR/LeedCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AbhishekkASR/LeedCode/tree/master/3689-maximum-total-subarray-value-i) |
