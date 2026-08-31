@@ -9,7 +9,6 @@ class Solution:
         min_dist = float('inf')
 
         while curr and curr.next:
-            # Check local maximum or minimum
             if ((curr.val > prev.val and curr.val > curr.next.val) or
                 (curr.val < prev.val and curr.val < curr.next.val)):
 
@@ -23,12 +22,9 @@ class Solution:
             prev = curr
             curr = curr.next
             index += 1
-
-        # Fewer than two critical points
         if first == last:
             return [-1, -1]
 
         max_dist = last - first
 
         return [min_dist, max_dist]
-        
