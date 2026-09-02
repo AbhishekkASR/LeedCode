@@ -85,6 +85,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AbhishekkASR/LeedCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AbhishekkASR/LeedCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/AbhishekkASR/LeedCode/tree/master/0258-add-digits) |
 | [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
@@ -105,6 +106,7 @@
 ## String
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AbhishekkASR/LeedCode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/AbhishekkASR/LeedCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0242-valid-anagram](https://github.com/AbhishekkASR/LeedCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AbhishekkASR/LeedCode/tree/master/0389-find-the-difference) |
@@ -148,6 +150,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/AbhishekkASR/LeedCode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/AbhishekkASR/LeedCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AbhishekkASR/LeedCode/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbhishekkASR/LeedCode/tree/master/0599-minimum-index-sum-of-two-lists) |
