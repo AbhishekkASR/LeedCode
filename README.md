@@ -121,6 +121,7 @@
 | [0709-to-lower-case](https://github.com/AbhishekkASR/LeedCode/tree/master/0709-to-lower-case) |
 | [0796-rotate-string](https://github.com/AbhishekkASR/LeedCode/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/AbhishekkASR/LeedCode/tree/master/0806-number-of-lines-to-write-string) |
+| [0940-distinct-subsequences-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/0940-distinct-subsequences-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/AbhishekkASR/LeedCode/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/AbhishekkASR/LeedCode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/AbhishekkASR/LeedCode/tree/master/1927-sum-game) |
@@ -199,6 +200,7 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/AbhishekkASR/LeedCode/tree/master/0115-distinct-subsequences) |
+| [0940-distinct-subsequences-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AbhishekkASR/LeedCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AbhishekkASR/LeedCode/tree/master/1563-stone-game-v) |
