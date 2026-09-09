@@ -18,6 +18,7 @@
 | [1563-stone-game-v](https://github.com/AbhishekkASR/LeedCode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AbhishekkASR/LeedCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1822-sign-of-the-product-of-an-array) |
+| [1848-minimum-distance-to-the-target-element](https://github.com/AbhishekkASR/LeedCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/AbhishekkASR/LeedCode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/AbhishekkASR/LeedCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AbhishekkASR/LeedCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
