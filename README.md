@@ -8,6 +8,7 @@
 | [0066-plus-one](https://github.com/AbhishekkASR/LeedCode/tree/master/0066-plus-one) |
 | [0283-move-zeroes](https://github.com/AbhishekkASR/LeedCode/tree/master/0283-move-zeroes) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbhishekkASR/LeedCode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0682-baseball-game](https://github.com/AbhishekkASR/LeedCode/tree/master/0682-baseball-game) |
 | [0806-number-of-lines-to-write-string](https://github.com/AbhishekkASR/LeedCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0896-monotonic-array](https://github.com/AbhishekkASR/LeedCode/tree/master/0896-monotonic-array) |
 | [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
@@ -191,6 +192,7 @@
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/AbhishekkASR/LeedCode/tree/master/0258-add-digits) |
+| [0682-baseball-game](https://github.com/AbhishekkASR/LeedCode/tree/master/0682-baseball-game) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AbhishekkASR/LeedCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AbhishekkASR/LeedCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
@@ -260,6 +262,7 @@
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/AbhishekkASR/LeedCode/tree/master/0234-palindrome-linked-list) |
+| [0682-baseball-game](https://github.com/AbhishekkASR/LeedCode/tree/master/0682-baseball-game) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AbhishekkASR/LeedCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
