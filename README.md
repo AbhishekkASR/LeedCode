@@ -31,6 +31,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhishekkASR/LeedCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/AbhishekkASR/LeedCode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhishekkASR/LeedCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AbhishekkASR/LeedCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhishekkASR/LeedCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhishekkASR/LeedCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AbhishekkASR/LeedCode/tree/master/3689-maximum-total-subarray-value-i) |
@@ -46,6 +47,7 @@
 |  |
 | ------- |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhishekkASR/LeedCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AbhishekkASR/LeedCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/AbhishekkASR/LeedCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 ## Divide and Conquer
 |  |
@@ -61,6 +63,7 @@
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AbhishekkASR/LeedCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbhishekkASR/LeedCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhishekkASR/LeedCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AbhishekkASR/LeedCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/AbhishekkASR/LeedCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhishekkASR/LeedCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Quickselect
@@ -215,6 +218,7 @@
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AbhishekkASR/LeedCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1872-stone-game-viii](https://github.com/AbhishekkASR/LeedCode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbhishekkASR/LeedCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+| [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AbhishekkASR/LeedCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
 ## Minimax
 |  |
 | ------- |
