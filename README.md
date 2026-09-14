@@ -112,6 +112,7 @@
 | [0066-plus-one](https://github.com/AbhishekkASR/LeedCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/AbhishekkASR/LeedCode/tree/master/0258-add-digits) |
 | [0836-rectangle-overlap](https://github.com/AbhishekkASR/LeedCode/tree/master/0836-rectangle-overlap) |
+| [1041-robot-bounded-in-circle](https://github.com/AbhishekkASR/LeedCode/tree/master/1041-robot-bounded-in-circle) |
 | [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AbhishekkASR/LeedCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AbhishekkASR/LeedCode/tree/master/1563-stone-game-v) |
@@ -146,6 +147,7 @@
 | [0796-rotate-string](https://github.com/AbhishekkASR/LeedCode/tree/master/0796-rotate-string) |
 | [0806-number-of-lines-to-write-string](https://github.com/AbhishekkASR/LeedCode/tree/master/0806-number-of-lines-to-write-string) |
 | [0940-distinct-subsequences-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/0940-distinct-subsequences-ii) |
+| [1041-robot-bounded-in-circle](https://github.com/AbhishekkASR/LeedCode/tree/master/1041-robot-bounded-in-circle) |
 | [1189-maximum-number-of-balloons](https://github.com/AbhishekkASR/LeedCode/tree/master/1189-maximum-number-of-balloons) |
 | [1768-merge-strings-alternately](https://github.com/AbhishekkASR/LeedCode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/AbhishekkASR/LeedCode/tree/master/1927-sum-game) |
@@ -208,6 +210,7 @@
 | [0258-add-digits](https://github.com/AbhishekkASR/LeedCode/tree/master/0258-add-digits) |
 | [0657-robot-return-to-origin](https://github.com/AbhishekkASR/LeedCode/tree/master/0657-robot-return-to-origin) |
 | [0682-baseball-game](https://github.com/AbhishekkASR/LeedCode/tree/master/0682-baseball-game) |
+| [1041-robot-bounded-in-circle](https://github.com/AbhishekkASR/LeedCode/tree/master/1041-robot-bounded-in-circle) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AbhishekkASR/LeedCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [2553-separate-the-digits-in-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/2553-separate-the-digits-in-an-array) |
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AbhishekkASR/LeedCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
