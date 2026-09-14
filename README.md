@@ -102,6 +102,7 @@
 | [0013-roman-to-integer](https://github.com/AbhishekkASR/LeedCode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/AbhishekkASR/LeedCode/tree/master/0066-plus-one) |
 | [0258-add-digits](https://github.com/AbhishekkASR/LeedCode/tree/master/0258-add-digits) |
+| [0836-rectangle-overlap](https://github.com/AbhishekkASR/LeedCode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AbhishekkASR/LeedCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AbhishekkASR/LeedCode/tree/master/1563-stone-game-v) |
@@ -387,4 +388,8 @@
 |  |
 | ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbhishekkASR/LeedCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/AbhishekkASR/LeedCode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
