@@ -9,6 +9,7 @@
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhishekkASR/LeedCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0283-move-zeroes](https://github.com/AbhishekkASR/LeedCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/AbhishekkASR/LeedCode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/AbhishekkASR/LeedCode/tree/master/0435-non-overlapping-intervals) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbhishekkASR/LeedCode/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0682-baseball-game](https://github.com/AbhishekkASR/LeedCode/tree/master/0682-baseball-game) |
 | [0806-number-of-lines-to-write-string](https://github.com/AbhishekkASR/LeedCode/tree/master/0806-number-of-lines-to-write-string) |
@@ -65,6 +66,7 @@
 | [0242-valid-anagram](https://github.com/AbhishekkASR/LeedCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AbhishekkASR/LeedCode/tree/master/0389-find-the-difference) |
 | [0414-third-maximum-number](https://github.com/AbhishekkASR/LeedCode/tree/master/0414-third-maximum-number) |
+| [0435-non-overlapping-intervals](https://github.com/AbhishekkASR/LeedCode/tree/master/0435-non-overlapping-intervals) |
 | [1331-rank-transform-of-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AbhishekkASR/LeedCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
@@ -170,6 +172,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0435-non-overlapping-intervals](https://github.com/AbhishekkASR/LeedCode/tree/master/0435-non-overlapping-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/AbhishekkASR/LeedCode/tree/master/1386-cinema-seat-allocation) |
 | [1927-sum-game](https://github.com/AbhishekkASR/LeedCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AbhishekkASR/LeedCode/tree/master/2029-stone-game-ix) |
@@ -238,6 +241,7 @@
 |  |
 | ------- |
 | [0115-distinct-subsequences](https://github.com/AbhishekkASR/LeedCode/tree/master/0115-distinct-subsequences) |
+| [0435-non-overlapping-intervals](https://github.com/AbhishekkASR/LeedCode/tree/master/0435-non-overlapping-intervals) |
 | [0940-distinct-subsequences-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/0940-distinct-subsequences-ii) |
 | [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/AbhishekkASR/LeedCode/tree/master/1510-stone-game-iv) |
