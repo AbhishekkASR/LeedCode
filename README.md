@@ -72,6 +72,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1331-rank-transform-of-an-array) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/AbhishekkASR/LeedCode/tree/master/1502-can-make-arithmetic-progression-from-sequence) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhishekkASR/LeedCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbhishekkASR/LeedCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhishekkASR/LeedCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AbhishekkASR/LeedCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
@@ -158,6 +159,7 @@
 | [0940-distinct-subsequences-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/0940-distinct-subsequences-ii) |
 | [1041-robot-bounded-in-circle](https://github.com/AbhishekkASR/LeedCode/tree/master/1041-robot-bounded-in-circle) |
 | [1189-maximum-number-of-balloons](https://github.com/AbhishekkASR/LeedCode/tree/master/1189-maximum-number-of-balloons) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhishekkASR/LeedCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/AbhishekkASR/LeedCode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/AbhishekkASR/LeedCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbhishekkASR/LeedCode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -176,6 +178,7 @@
 | ------- |
 | [0435-non-overlapping-intervals](https://github.com/AbhishekkASR/LeedCode/tree/master/0435-non-overlapping-intervals) |
 | [1386-cinema-seat-allocation](https://github.com/AbhishekkASR/LeedCode/tree/master/1386-cinema-seat-allocation) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhishekkASR/LeedCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1927-sum-game](https://github.com/AbhishekkASR/LeedCode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/AbhishekkASR/LeedCode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/AbhishekkASR/LeedCode/tree/master/2091-removing-minimum-and-maximum-from-array) |
@@ -203,6 +206,7 @@
 | [1331-rank-transform-of-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1331-rank-transform-of-an-array) |
 | [1386-cinema-seat-allocation](https://github.com/AbhishekkASR/LeedCode/tree/master/1386-cinema-seat-allocation) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhishekkASR/LeedCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
+| [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhishekkASR/LeedCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbhishekkASR/LeedCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhishekkASR/LeedCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhishekkASR/LeedCode/tree/master/3471-find-the-largest-almost-missing-integer) |
