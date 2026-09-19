@@ -122,6 +122,7 @@
 | [0836-rectangle-overlap](https://github.com/AbhishekkASR/LeedCode/tree/master/0836-rectangle-overlap) |
 | [1041-robot-bounded-in-circle](https://github.com/AbhishekkASR/LeedCode/tree/master/1041-robot-bounded-in-circle) |
 | [1140-stone-game-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1140-stone-game-ii) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/AbhishekkASR/LeedCode/tree/master/1401-circle-and-rectangle-overlapping) |
 | [1510-stone-game-iv](https://github.com/AbhishekkASR/LeedCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/AbhishekkASR/LeedCode/tree/master/1563-stone-game-v) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhishekkASR/LeedCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
@@ -430,6 +431,7 @@
 |  |
 | ------- |
 | [0836-rectangle-overlap](https://github.com/AbhishekkASR/LeedCode/tree/master/0836-rectangle-overlap) |
+| [1401-circle-and-rectangle-overlapping](https://github.com/AbhishekkASR/LeedCode/tree/master/1401-circle-and-rectangle-overlapping) |
 ## Design
 |  |
 | ------- |
