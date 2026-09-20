@@ -165,6 +165,7 @@
 | [1768-merge-strings-alternately](https://github.com/AbhishekkASR/LeedCode/tree/master/1768-merge-strings-alternately) |
 | [1927-sum-game](https://github.com/AbhishekkASR/LeedCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbhishekkASR/LeedCode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2833-furthest-point-from-origin](https://github.com/AbhishekkASR/LeedCode/tree/master/2833-furthest-point-from-origin) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/AbhishekkASR/LeedCode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbhishekkASR/LeedCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/3348-smallest-divisible-digit-product-ii) |
@@ -222,6 +223,7 @@
 | ------- |
 | [1189-maximum-number-of-balloons](https://github.com/AbhishekkASR/LeedCode/tree/master/1189-maximum-number-of-balloons) |
 | [2029-stone-game-ix](https://github.com/AbhishekkASR/LeedCode/tree/master/2029-stone-game-ix) |
+| [2833-furthest-point-from-origin](https://github.com/AbhishekkASR/LeedCode/tree/master/2833-furthest-point-from-origin) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AbhishekkASR/LeedCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
 |  |
