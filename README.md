@@ -135,6 +135,7 @@
 | [2946-matrix-similarity-after-cyclic-shifts](https://github.com/AbhishekkASR/LeedCode/tree/master/2946-matrix-similarity-after-cyclic-shifts) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhishekkASR/LeedCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/3348-smallest-divisible-digit-product-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3524-find-x-value-of-array-i](https://github.com/AbhishekkASR/LeedCode/tree/master/3524-find-x-value-of-array-i) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/AbhishekkASR/LeedCode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/AbhishekkASR/LeedCode/tree/master/3658-gcd-of-odd-and-even-sums) |
@@ -172,6 +173,7 @@
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/AbhishekkASR/LeedCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3498-reverse-degree-of-a-string](https://github.com/AbhishekkASR/LeedCode/tree/master/3498-reverse-degree-of-a-string) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3612-process-string-with-special-operations-i](https://github.com/AbhishekkASR/LeedCode/tree/master/3612-process-string-with-special-operations-i) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AbhishekkASR/LeedCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/AbhishekkASR/LeedCode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
@@ -218,6 +220,7 @@
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhishekkASR/LeedCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhishekkASR/LeedCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhishekkASR/LeedCode/tree/master/3483-unique-3-digit-even-numbers) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AbhishekkASR/LeedCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AbhishekkASR/LeedCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
@@ -226,6 +229,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/AbhishekkASR/LeedCode/tree/master/1189-maximum-number-of-balloons) |
 | [2029-stone-game-ix](https://github.com/AbhishekkASR/LeedCode/tree/master/2029-stone-game-ix) |
 | [2833-furthest-point-from-origin](https://github.com/AbhishekkASR/LeedCode/tree/master/2833-furthest-point-from-origin) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AbhishekkASR/LeedCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Simulation
 |  |
@@ -416,6 +420,7 @@
 | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/AbhishekkASR/LeedCode/tree/master/1621-number-of-sets-of-k-non-overlapping-line-segments) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/AbhishekkASR/LeedCode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Z Algorithm
 |  |
 | ------- |
