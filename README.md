@@ -6,6 +6,7 @@
 |  |
 | ------- |
 | [0066-plus-one](https://github.com/AbhishekkASR/LeedCode/tree/master/0066-plus-one) |
+| [0073-set-matrix-zeroes](https://github.com/AbhishekkASR/LeedCode/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhishekkASR/LeedCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
 | [0283-move-zeroes](https://github.com/AbhishekkASR/LeedCode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/AbhishekkASR/LeedCode/tree/master/0414-third-maximum-number) |
@@ -209,6 +210,7 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/AbhishekkASR/LeedCode/tree/master/0013-roman-to-integer) |
+| [0073-set-matrix-zeroes](https://github.com/AbhishekkASR/LeedCode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/AbhishekkASR/LeedCode/tree/master/0242-valid-anagram) |
 | [0389-find-the-difference](https://github.com/AbhishekkASR/LeedCode/tree/master/0389-find-the-difference) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/AbhishekkASR/LeedCode/tree/master/0599-minimum-index-sum-of-two-lists) |
@@ -391,6 +393,7 @@
 ## Matrix
 |  |
 | ------- |
+| [0073-set-matrix-zeroes](https://github.com/AbhishekkASR/LeedCode/tree/master/0073-set-matrix-zeroes) |
 | [0835-image-overlap](https://github.com/AbhishekkASR/LeedCode/tree/master/0835-image-overlap) |
 | [1275-find-winner-on-a-tic-tac-toe-game](https://github.com/AbhishekkASR/LeedCode/tree/master/1275-find-winner-on-a-tic-tac-toe-game) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AbhishekkASR/LeedCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
