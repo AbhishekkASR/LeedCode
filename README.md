@@ -26,6 +26,7 @@
 | [1563-stone-game-v](https://github.com/AbhishekkASR/LeedCode/tree/master/1563-stone-game-v) |
 | [1594-maximum-non-negative-product-in-a-matrix](https://github.com/AbhishekkASR/LeedCode/tree/master/1594-maximum-non-negative-product-in-a-matrix) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbhishekkASR/LeedCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhishekkASR/LeedCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1822-sign-of-the-product-of-an-array](https://github.com/AbhishekkASR/LeedCode/tree/master/1822-sign-of-the-product-of-an-array) |
 | [1848-minimum-distance-to-the-target-element](https://github.com/AbhishekkASR/LeedCode/tree/master/1848-minimum-distance-to-the-target-element) |
 | [1872-stone-game-viii](https://github.com/AbhishekkASR/LeedCode/tree/master/1872-stone-game-viii) |
@@ -177,6 +178,7 @@
 | [1189-maximum-number-of-balloons](https://github.com/AbhishekkASR/LeedCode/tree/master/1189-maximum-number-of-balloons) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhishekkASR/LeedCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/AbhishekkASR/LeedCode/tree/master/1768-merge-strings-alternately) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhishekkASR/LeedCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [1927-sum-game](https://github.com/AbhishekkASR/LeedCode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/AbhishekkASR/LeedCode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [2833-furthest-point-from-origin](https://github.com/AbhishekkASR/LeedCode/tree/master/2833-furthest-point-from-origin) |
@@ -231,6 +233,7 @@
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/AbhishekkASR/LeedCode/tree/master/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhishekkASR/LeedCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/AbhishekkASR/LeedCode/tree/master/1658-minimum-operations-to-reduce-x-to-zero) |
+| [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhishekkASR/LeedCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/AbhishekkASR/LeedCode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhishekkASR/LeedCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhishekkASR/LeedCode/tree/master/3471-find-the-largest-almost-missing-integer) |
