@@ -176,6 +176,7 @@
 | [1041-robot-bounded-in-circle](https://github.com/AbhishekkASR/LeedCode/tree/master/1041-robot-bounded-in-circle) |
 | [1096-brace-expansion-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1096-brace-expansion-ii) |
 | [1189-maximum-number-of-balloons](https://github.com/AbhishekkASR/LeedCode/tree/master/1189-maximum-number-of-balloons) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbhishekkASR/LeedCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [1520-maximum-number-of-non-overlapping-substrings](https://github.com/AbhishekkASR/LeedCode/tree/master/1520-maximum-number-of-non-overlapping-substrings) |
 | [1768-merge-strings-alternately](https://github.com/AbhishekkASR/LeedCode/tree/master/1768-merge-strings-alternately) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/AbhishekkASR/LeedCode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
@@ -336,6 +337,7 @@
 | [0234-palindrome-linked-list](https://github.com/AbhishekkASR/LeedCode/tree/master/0234-palindrome-linked-list) |
 | [0682-baseball-game](https://github.com/AbhishekkASR/LeedCode/tree/master/0682-baseball-game) |
 | [1096-brace-expansion-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/1096-brace-expansion-ii) |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbhishekkASR/LeedCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/AbhishekkASR/LeedCode/tree/master/2130-maximum-twin-sum-of-a-linked-list) |
 ## Recursion
 |  |
@@ -475,4 +477,8 @@
 |  |
 | ------- |
 | [0677-map-sum-pairs](https://github.com/AbhishekkASR/LeedCode/tree/master/0677-map-sum-pairs) |
+## Bracket Sequences
+|  |
+| ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/AbhishekkASR/LeedCode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
 <!---LeetCode Topics End-->
