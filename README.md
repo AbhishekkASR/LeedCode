@@ -48,6 +48,7 @@
 | [3524-find-x-value-of-array-i](https://github.com/AbhishekkASR/LeedCode/tree/master/3524-find-x-value-of-array-i) |
 | [3525-find-x-value-of-array-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/3525-find-x-value-of-array-ii) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/AbhishekkASR/LeedCode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AbhishekkASR/LeedCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3689-maximum-total-subarray-value-i](https://github.com/AbhishekkASR/LeedCode/tree/master/3689-maximum-total-subarray-value-i) |
 | [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/AbhishekkASR/LeedCode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AbhishekkASR/LeedCode/tree/master/3718-smallest-missing-multiple-of-k) |
@@ -85,6 +86,7 @@
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/AbhishekkASR/LeedCode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/AbhishekkASR/LeedCode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3414-maximum-score-of-non-overlapping-intervals](https://github.com/AbhishekkASR/LeedCode/tree/master/3414-maximum-score-of-non-overlapping-intervals) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AbhishekkASR/LeedCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3759-count-elements-with-at-least-k-greater-values](https://github.com/AbhishekkASR/LeedCode/tree/master/3759-count-elements-with-at-least-k-greater-values) |
 | [3867-sum-of-gcd-of-formed-pairs](https://github.com/AbhishekkASR/LeedCode/tree/master/3867-sum-of-gcd-of-formed-pairs) |
 ## Quickselect
@@ -244,6 +246,7 @@
 | [3471-find-the-largest-almost-missing-integer](https://github.com/AbhishekkASR/LeedCode/tree/master/3471-find-the-largest-almost-missing-integer) |
 | [3483-unique-3-digit-even-numbers](https://github.com/AbhishekkASR/LeedCode/tree/master/3483-unique-3-digit-even-numbers) |
 | [3518-smallest-palindromic-rearrangement-ii](https://github.com/AbhishekkASR/LeedCode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
+| [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/AbhishekkASR/LeedCode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/AbhishekkASR/LeedCode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/AbhishekkASR/LeedCode/tree/master/3720-lexicographically-smallest-permutation-greater-than-target) |
 ## Counting
