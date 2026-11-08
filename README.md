@@ -5,6 +5,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AbhishekkASR/LeedCode/tree/master/0001-two-sum) |
 | [0066-plus-one](https://github.com/AbhishekkASR/LeedCode/tree/master/0066-plus-one) |
 | [0073-set-matrix-zeroes](https://github.com/AbhishekkASR/LeedCode/tree/master/0073-set-matrix-zeroes) |
 | [0108-convert-sorted-array-to-binary-search-tree](https://github.com/AbhishekkASR/LeedCode/tree/master/0108-convert-sorted-array-to-binary-search-tree) |
@@ -226,6 +227,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/AbhishekkASR/LeedCode/tree/master/0001-two-sum) |
 | [0013-roman-to-integer](https://github.com/AbhishekkASR/LeedCode/tree/master/0013-roman-to-integer) |
 | [0073-set-matrix-zeroes](https://github.com/AbhishekkASR/LeedCode/tree/master/0073-set-matrix-zeroes) |
 | [0242-valid-anagram](https://github.com/AbhishekkASR/LeedCode/tree/master/0242-valid-anagram) |
